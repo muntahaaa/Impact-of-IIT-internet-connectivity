@@ -331,7 +331,6 @@ For questions about the analysis methodology, data interpretation, or replicatio
 
 - **Project Focus**: Internet connectivity impact on academic productivity
 - **Statistical Method**: Comprehensive ANOVA with post-hoc analysis
-- **Institution**: Islamic Institute of Technology (IIT)
 - **Completion Date**: July 6, 2025
 
 ---
